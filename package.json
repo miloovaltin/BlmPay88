@@ -1,16 +1,16 @@
 {
-"name": "BlmPay88",
-"theme": "Blm Pay 88",
-"version": "3.3.5",
-"description": "Blm Pay 88 ทางเข้าหลักเว็บพนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
-"keywords": [
-"Blm Pay 88",
-"Blm Pay 88 เครดิตฟรี",
-"Blm Pay 88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/BlmPay88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "BlmPay88",
+  "theme": "Blm Pay 88",
+  "version": "3.4.0",
+  "description": "Blm Pay 88 ทางเข้าหลักเว็บพนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+  "keywords": [
+    "Blm Pay 88",
+    "Blm Pay 88 เครดิตฟรี",
+    "Blm Pay 88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/BlmPay88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
